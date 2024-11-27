@@ -1,2 +1,5 @@
 scikit-learn==0.24.2
 streamlit
+scikit-learn
+joblib
+numpy
